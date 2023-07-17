@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dexteroussinister
 - 👀 I’m new to coding.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps related queries.
 - 📫 mail me at ffsb.alok@gmail.com
+- replit link:- https://replit.com/@AlokSingh103
 
 <!---
 Dexteroussinister/Dexteroussinister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
